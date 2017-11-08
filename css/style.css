@@ -1,0 +1,39 @@
+body {
+  background-image: url(../img/background.jpg);
+}
+
+.wrapper {
+  width: 400px;
+  margin: 240px auto;
+  padding: 40px;
+  background-color: #fff;
+}
+
+.wrapper img {
+  width: 400px;
+}
+
+.wrapper h2 {
+  font-weight: 400;
+  font-family: 'Oswald', sans-serif;
+  color: #555e74;
+}
+
+.wrapper h3 {
+  font-weight: 400;
+  font-family: 'Oswald', sans-serif;
+  color: #555e74;
+}
+.wrapper-two {
+  padding-bottom: 50px;
+  margin-bottom: 100px;
+  border-bottom: 1px solid #b6bdac;
+}
+
+.wrapper-four li {
+  margin-bottom: 10px;
+  margin-left: 20px;
+  list-style-type: none;
+  color: #555e74;
+  display: inline-block;
+}

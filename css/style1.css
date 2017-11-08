@@ -1,0 +1,24 @@
+.wrapper {
+  width: 400px;
+  margin: 15px;
+}
+
+.wrapper h2 {
+  font-family: Courier New, monospace;
+  color: #102366;
+}
+
+.wrapper h3 {
+  font-family: monospace;
+  color: #102366;
+}
+.wrapper img {
+  width: 385px;
+  height: 150px;
+}
+
+.wrapper li {
+  color: #102366;
+  list-style-image: url(../img/images.png);
+  vertical-align: bottom;
+}
